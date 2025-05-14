@@ -1,2 +1,2 @@
 console.log('indexedDB.js');
-console.log('version');
+console.log('version 3');
